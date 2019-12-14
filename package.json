@@ -1,0 +1,16 @@
+{
+  "name": "gdg_gwalior",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d gdg_gwalior"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://suneelam758.github.io/gdg",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
